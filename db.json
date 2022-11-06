@@ -1,0 +1,112 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Json Server",
+      "content": "Install JSON Server npm: install -g json-server.  Create a db.json file with some data. Start JSON Server: json-server --watch db.json",
+      "imageUrl": "https://dz2cdn1.dzone.com/storage/temp/8746383-json-server.png",
+      "authorId": 1,
+      "tags": [
+        "json-server",
+        "backend",
+        "rest",
+        "api"
+      ],
+      "likeCounter": 0
+    },
+    {
+      "id": 2,
+      "title": "Jcdcdson Server",
+      "content": "Icdcdscsnstall JSON Server npm: install -g json-server.  Create a db.json file with some data. Start JSON Server: json-server --watch db.json",
+      "imageUrl": "https://dz2cdn1.dzone.com/storage/temp/8746383-json-server.png",
+      "authorId": 1,
+      "tags": [
+        "json-server",
+        "ojuhoh bjbb",
+        "backend",
+        "rest",
+        "api"
+      ],
+      "likeCounter": 0
+    },
+    {
+      "id": 3,
+      "title": "Jsohtrhn Server",
+      "content": "Inrhtrrrrrrrrrrrrrrrstall JSON Server npm: install -g json-server.  Create a db.json file with some data. Start JSON Server: jshhththton-server --watch db.json",
+      "imageUrl": "https://dz2cdn1.dzone.com/storage/temp/8746383-json-server.png",
+      "authorId": 1,
+      "tags": [
+        "json-server",
+        "backend",
+        "jjjnnjn",
+        "rest",
+        "api"
+      ],
+      "likeCounter": 0
+    },
+    {
+      "id": 6,
+      "title": "Jcdcdson Server",
+      "content": "Icdcdscsnstall JSON Server npm: install -g json-server.  Create a db.json file with some data. Start JSON Server: json-server --watch db.json",
+      "imageUrl": "https://dz2cdn1.dzone.com/storage/temp/8746383-json-server.png",
+      "authorId": 1,
+      "tags": [
+        "json-server",
+        "ojuhoh bjbb",
+        "backend",
+        "rest",
+        "api"
+      ],
+      "likeCounter": 0
+    },
+    {
+      "title": "Jcdcdson Server",
+      "content": "Icdcdscsnstall JSON Server npm: install -g json-server.  Create a db.json file with some data. Start JSON Server: json-server --watch db.json",
+      "imageUrl": "https://dz2cdn1.dzone.com/storage/temp/8746383-json-server.png",
+      "authorId": 1,
+      "tags": [
+        "json-server",
+        "ojuhoh bjbb",
+        "backend",
+        "rest",
+        "api"
+      ],
+      "likeCounter": 0,
+      "id": 7
+    },
+    {
+      "title": "Typescript",
+      "content": "Ijson-server --watch db.json",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png",
+      "authorId": 1,
+      "tags": [
+        "json-server",
+        "ojuhoh bjbb",
+        "backend",
+        "rest",
+        "api"
+      ],
+      "likeCounter": 0,
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1,
+      "authorId": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Default",
+      "lastName": "Admin",
+      "username": "admin",
+      "password": "admin123",
+      "role": 2,
+      "imageUrl": "https://avatars.githubusercontent.com/u/8014435?v=4"
+    }
+  ]
+}
